@@ -8,6 +8,7 @@ Versão em HTML: [Clique Aqui](https://wsoaresjr.github.io/curriculo/curriculo_w
 
 Versão em PDF: [Clique Aqui](https://wsoaresjr.github.io/curriculo/curriculo_wsoares.pdf)
 
+
+
+
 1
-
-

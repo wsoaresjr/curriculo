@@ -61,12 +61,9 @@ Main
 Walter Soares {#title}
 --------------------------------------------------------------------------------
 
-### Currently searching for a PhD student position
+### Analista de Construção de Instrumentos de Avaliação, Mestrando em Educação Matemática e Graduando em Ciências de Dados
 
-Please note that this is a *real* resume, and I'm really looking for a PhD
-student position at the moment. I made this resume because Yihui asked me
-if I'd like to test the **pagedown** package with my resume. If you are
-interested in my background and skills, please feel free to contact me.
+Sou Professor de Matemática e, além de lecionar em uma Unidade Escolar da Rede Pública Estadual do Rio de janeiro, trabalho como Analista de Construção de Instrumentos de Avaliação. Estou em fase de conclusão dos cursos de Mestrado Profissional em Educação Matemática, pela Universidade Federal de Juiz de Fora e, Graduação Tecnológica em Ciêcia de Dados, pela Universidade Cruzeiro do Sul, área na qual tenho despertado muito interesse.
 
 
 Formação {data-icon=graduation-cap data-concise=true}

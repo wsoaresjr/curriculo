@@ -1,9 +1,9 @@
-README
-
-Versão Html: .
+**README**
 
 
-pdf
+Currículo realizado com R e RStudio, a partir do pacote Pagedown.
 
 
-2
+Versão em HTML:
+
+Versão em PDF: 

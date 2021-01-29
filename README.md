@@ -4,6 +4,7 @@
 Currículo realizado com R e RStudio, a partir do pacote Pagedown.
 
 
-Versão em HTML:
+Versão em HTML: <link1>
 
-Versão em PDF: 
+Versão em PDF: <link2>
+

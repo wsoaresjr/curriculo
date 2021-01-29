@@ -1,0 +1,393 @@
+---
+title: "Walter Soares's resume"
+author: Walter Soares
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+
+---
+
+Aside
+================================================================================
+
+
+![Lijia Yu](https://avatars1.githubusercontent.com/u/895125?s=400&v=4){width=80%}
+
+<i class="fas fa-download"></i> [Download em PDF](https://github.com/wsoaresjr/resume/blob/main/resume.pdf)
+
+Contato {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> wsoares@live.com
+- <i class="fa fa-github"></i> [wsoaresjr](https://github.com/wsoaresjr)
+- <i class="fab fa-linkedin"></i> [walter-soares](https://www.linkedin.com/in/walter-soares)
+- <i class="fas fa-external-link-alt"></i> [lattes]( http://lattes.cnpq.br/9356355458603440)
+
+
+
+Habilidade de Programação {#skills}
+--------------------------------------------------------------------------------
+
+- <i class="fab fa-html5"></i> Html
+
+- <i class="fab fa-python"></i> Python
+
+- <i class="fab fa-r-project"></i> R
+
+- <i class="fas fa-database"></i> SQL / NoSQL
+
+- <i class="fab fa-git"></i> Git
+
+- <i class="fab fa-github"></i> Github
+
+- <i class="fab fa-markdown"></i> Markdown
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+Este currículo foi feito com o pacote [**pagedown**](https://github.com/rstudio/pagedown), do R.
+
+Última atualização em `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Walter Soares {#title}
+--------------------------------------------------------------------------------
+
+### Currently searching for a PhD student position
+
+Please note that this is a *real* resume, and I'm really looking for a PhD
+student position at the moment. I made this resume because Yihui asked me
+if I'd like to test the **pagedown** package with my resume. If you are
+interested in my background and skills, please feel free to contact me.
+
+
+Formação {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Graduação Tecnológica em Ciências de Dados
+
+Universidade Cruzeiro do Sul
+
+Juiz de Fora, MG, Brasil
+
+Atualmente - 2020
+
+
+
+### Mestrado Profissional em Educação Matemática
+
+Universidade Federal de Juiz de Fora
+
+Juiz de Fora, MG, Brasil
+
+Atualmente - 2019
+
+
+
+### Licenciatura em Matemática
+
+Universidade Federal do Rio de Janeiro
+
+Rio de Janeiro, RJ, Brasil
+
+2001 - 1998
+
+  
+
+Experiência Profissional {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Analista de Construção de Instrumentos de Avaliação
+
+Fundação Caed
+
+Juiz de Fora, MG, Brasil
+
+Atualmente - 2019
+
+Elaboração, revisão e análise de Matrizes de Referência para avaliação;
+
+Participação em reuniões com equipes das Secretarias de Educação dos programas executados pelo CAEd para alinhamento das Matrizes de Referência para etapas/áreas a serem avaliadas;
+
+Construição dos blocos de itens que irão compor os instrumentos de avaliação;
+
+Construição dos instrumentos de avaliação aplicados nos programas executados pelo CAEd;
+
+Participação em reuniões de estudos para definição de padrões que garantam a qualidade dos itens elaborados pela equipe do Banco de Itens do CAEd;
+
+Construição de relatórios de análise dos itens e material de divulgação dos resultados;
+
+Apresentação de oficinas de elaboração de itens e apropriação de resultados.
+
+
+
+### Professor Docente I
+
+SEEDUC-RJ
+
+Três Rios, RJ, Brasil
+
+Atualmente - 2018
+
+Destacam-se as atribuições: Atuação como Professor Docente I em turmas dos segmentos Ensino Fundamental Anos Finais e Ensino Médio; Atuação como mediador de processo ensino-aprendizagem, planejando as atividades de forma a garantir a integração dos componentes curriculares da Base Nacional Comum Curriular entre si e com as disciplinas da Parte Específica, servindo o Currículo, conforme a prioridade do planejamento das atividades pedagógicas; Efetuar o planejamento anual, bimestral e semanal dos conteúdos previstos para a disciplina de ingresso de forma a facilitar o planejamento no desenvolvimento de projetos; Promoção de análise de dados referentes à aprovação, recuperação e evasão de alunos; Participação na elaboração e avaliação de propostas curriculares; Participação na escolha de materiais didáticos; Desenvolvimento do pensamento crítico, criativo e autonomia de produção nos discentes.
+
+
+
+### Analista de Instrumentos de Avaliação
+
+Fundação Caed
+
+Juiz de Fora, MG, Brasil
+
+2019 - 2017
+
+Elaboração, revisão e análise de itens;
+
+Participação em reuniões de estudos para definição de padrões que garantam a qualidade dos itens elaborados;
+
+Apresentação de oficinas de elaboração de itens.
+
+
+
+### Membro da Equipe da Coordenação de Gestão de Carreiras
+
+SEEDUC-RJ
+
+Rio de Janeiro, RJ, Brasil
+
+2017 - 2016
+
+Realização de pesquisas e estudos sobre avaliação de servidores e programas institucionais;
+
+Elaboração de diagnóstico dos resultados das avaliações de desempenho por competências, para os servidores;
+
+Cálculo de indicadores de avaliação de desempenho institucional;
+
+Divulgação dos resultados das análises das competências institucionais, gerenciais e funcionais;
+
+Assessoria na implementação de ações de melhoria do desempenho institucional.
+
+
+
+### Coordenador de Apropriação dos Resultados das Avaliações Externas
+
+SEEDUC-RJ
+
+Rio de Janeiro, RJ, Brasil
+
+2016 - 2013
+
+Análise e elaboração de diagnóstico dos resultados do desempenho escolar nas avaliações: SAERJ, SAEB, ENEM e PISA;
+
+Divulgação dos resultados das análises pedagógicas das avaliações;
+
+Realização de pesquisas e estudos sobre avaliação e programas educacionais;
+
+Assessoria na implementação de ações pedagógicas de melhoria do desempenho escolar;
+
+Coordenação de cursos, seminários e palestras de apropriação de resultados para docentes e profissionais técnico-pedagógicos.
+
+
+
+### Professor Docente I
+
+SEEDUC-RJ
+
+Parati, RJ, Brasil
+
+2013 - 2008
+
+Destacam-se as atribuições: Atuação como Professor Docente I em turmas dos segmentos Ensino Fundamental Anos Finais e Ensino Médio; Atuação como mediador de processo ensino-aprendizagem, planejando as atividades de forma a garantir a integração dos componentes curriculares da Base Nacional Comum Curriular entre si e com as disciplinas da Parte Específica, servindo o Currículo, conforme a prioridade do planejamento das atividades pedagógicas; Efetuar o planejamento anual, bimestral e semanal dos conteúdos previstos para a disciplina de ingresso de forma a facilitar o planejamento no desenvolvimento de projetos; Promoção de análise de dados referentes à aprovação, recuperação e evasão de alunos; Participação na elaboração e avaliação de propostas curriculares; Participação na escolha de materiais didáticos; Desenvolvimento do pensamento crítico, criativo e autonomia de produção nos discentes.
+
+
+
+### Professor de Matemática
+
+Colégio e Curso Prioridade Hum
+
+Rio de Janeiro, RJ, Brasil
+
+2010 - 2002
+
+Destacam-se as principais atribuições: Atuação como Professor em turmas dos segmentos Ensino Fundamental Anos Finais e Ensino Médio e preparatório para concursos (vestibulares e militares); Atuação como mediador de processo ensino-aprendizagem, planejando as atividades de forma a garantir a integração dos componentes curriculares da Base Nacional Comum entre si e com as disciplinas da Parte Específica, servindo o Currículo, conforme a prioridade do planejamento das atividades pedagógicas; Efetuar o planejamento anual, bimestral e semanal dos conteúdos previstos para a disciplina de ingresso de forma a facilitar o planejamento no desenvolvimento de projetos. Promoção de análise de dados referentes à aprovação, recuperação e evasão de alunos; Participação na elaboração e avaliação de propostas curriculares; Participação na escolha de materiais didáticos; Desenvolvimento do pensamento crítico, criativo e autonomia de produção nos discentes.
+
+
+
+Outras Experiências Profissionais {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Subcoordenador Estadual Logístico para a Aplicação do SAEB de 2015
+
+SEEDUC-RJ / CAEd / Cesgranrio / INEP
+
+Rio de Janeiro, RJ, Brasil
+
+2015
+
+Responsável por:
+
+Apoiar o Coordenador estadual na elaboração do Plano de Logística da Aplicação da sua UF;
+
+Cumprir o cronograma das atividades;
+
+Orientar e monitorar o cadastramento no sistema de cadastro de colaboradores dos Coordenadores de Polo, da sua UF de atuação;
+
+Garantir o cumprimento das instruções por parte de todos de sua equipe;
+
+Prestar assessoria às escolas para esclarecimentos sobre o SAEB 2015.
+
+
+
+### Subcoordenador Estadual Logístico para a Aplicação da ANA de 2014
+
+SEEDUC-RJ / CAEd / Cesgranrio / INEP
+
+Rio de Janeiro, RJ, Brasil
+
+2014
+
+Responsável por:
+
+Apoiar o Coordenador estadual na elaboração do Plano de Logística da Aplicação da sua UF;
+
+Cumprir o cronograma das atividades;
+
+Orientar e monitorar o cadastramento no sistema de cadastro de colaboradores dos Coordenadores de Polo, da sua UF de atuação;
+
+Garantir o cumprimento das instruções por parte de todos de sua equipe;
+
+Prestar assessoria às escolas para esclarecimentos sobre a ANA 2014.
+
+
+
+### Subcoordenador Estadual Logístico para a Aplicação do SAEB de 2013
+
+SEEDUC-RJ / CAEd / Cesgranrio / INEP
+
+Rio de Janeiro, RJ, Brasil
+
+2013
+
+Responsável por:
+
+Apoiar o Coordenador estadual na elaboração do Plano de Logística da Aplicação da sua UF;
+
+Cumprir o cronograma das atividades;
+
+Orientar e monitorar o cadastramento no sistema de cadastro de colaboradores dos Coordenadores de Polo, da sua UF de atuação;
+
+Garantir o cumprimento das instruções por parte de todos de sua equipe;
+
+Prestar assessoria às escolas para esclarecimentos sobre o SAEB 2013.
+
+
+
+Curso de Extensão {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Professor Co-Autor e Co-Palestrante em Curso de Extensão
+
+Centro Universitário La Salle
+
+Niterói, RJ, Brasil
+
+2016
+
+Curso de Extensão: Co-autor e Professor do Curso **Geometria: com um Enfoque Diferente**, destinado a graduandos dos cursos de Licenciatura em Matemática e Pedagogia. O curso correspondeu a um produto educacional para a dissertação de Mestrado Profissional em Educação Matemática, da Pró-Reitoria de Pós-Graduação da Universidade Federal de Juiz de Fora / MG, da Autora e Professora Titular (Fabiana Polessa Cardoso: [21] 96448-5083).
+
+
+
+
+Eventos/Minicursos/Palestras {data-icon=calendar}
+--------------------------------------------------------------------------------
+
+### X Reunião da ABAVE
+
+Workshop (ouvinte)
+
+São Paulo, SP, Brasil
+
+2019
+
+Participação dos *workshops* da Associação Brasileira de Avaliação Educacional (ABAVE).
+
+
+
+### VI Congresso Brasileiro de Teoria de Resposta ao Item e Métodos Quantitativos em Avaliação  (COMBATRI)
+
+Minicurso (ouvinte)
+
+Juiz de Fora, MG, Brasil
+
+2018
+
+Participação no VI Congresso Brasileiro de Teoria de Resposta ao Item e Métodos Quantitativos em Avaliação - Métodos para Detecção de Fraudes em Testes, com participação no curso **Construção de Indicadores Educacionais e Sociais**.
+
+
+
+### I Encontro de Práticas em Ciências e Matemática nos Anos  Inicias  (CIMAI)
+
+Minicurso
+
+Juiz de Fora, MG, Brasil
+
+2016
+
+Ministrei em parceria da Professora Fabiana Polessa (21-96448-5083) o minicurso Minicurso **Um enfoque diferente no Ensino da Geometria Plana e   Espacial**, na Universidade Federal de Juiz de Fora, destinado a estudantes de Pedagogia, Pedagogos e Professores de Matemática do Ensino Fundamental (Anos Iniciais).
+
+
+
+### VII Encontro Mineiro de Educação Matemática (EMEM)
+
+Minicurso
+
+São João del Rei, MG, Brasil
+
+2015
+
+Ministrei em parceria da Professora Fabiana Polessa (21-96448-5083) o minicurso Minicurso **Geometria Espacial: um olhar diferente no Ensino dos sólidos Geométrico**, na Universidade Federal de São João del Rei, destinado a estudantes de Pedagogia, Pedagogos e Professores de Matemática.
+
+
+
+
+::: aside
+
+Sou iniciante na Ciência de Dados. Ao longo do meu aprendizado (que se iniciou em 2020) vendo desenvolvendo projetos pessoais (reais), aplicando técnicas aprendidas na graduação e, em cursos livres que realizo.
+
+
+
+### Idioma
+
+**Portuguese:** Native
+
+**Espanhol:** Proficiente
+
+**Inglês:** Proficiente
+
+
+
+### Certificações
+
+- <i class="fas fa-award"></i> [Becas Santander](https://www.becas-santander.com/pt/program/santanderdatamasters-cienciadedados2020) - Certificação em Ciência de Dados (2020).
+
+- <i class="fas fa-award"></i> [Let´s Code/Exame Academy](https://academy.exame.com/introducao-a-data-science-e-python) - Certificação em Introdução a Data Science e Python (2020).
+
+
+### Premiação
+
+<i class="fas fa-medal"></i> Premio GpRD 2015 - VIII Seminario de la Red de Gestión para Resultados en el Desarrollo en Gobiernos Subnacionales, CoPLAC GpRD (Comunidad de Profesionales Y Expertos en Latinoamérica Y El Caribe en Gestión para Res)
+
+
+
+<i class="fas fa-download"></i> [Download em PDF](https://github.com/wsoaresjr/resume/blob/main/resume.pdf)
+
+:::

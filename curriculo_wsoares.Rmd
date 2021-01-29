@@ -384,7 +384,7 @@ Sou iniciante na Ciência de Dados. Ao longo do meu aprendizado (que se iniciou 
 
 ### Premiação
 
-<i class="fas fa-medal"></i> Premio GpRD 2015 - VIII Seminario de la Red de Gestión para Resultados en el Desarrollo en Gobiernos Subnacionales, CoPLAC GpRD (Comunidad de Profesionales Y Expertos en Latinoamérica Y El Caribe en Gestión para Redes)
+<i class="fas fa-medal"></i> Premio GpRD 2015 - VIII Seminario de la Red de Gestión para Resultados en el Desarrollo en Gobiernos Subnacionales, CoPLAC GpRD (Comunidad de Profesionales Y Expertos en Latinoamérica Y El Caribe en Gestión para Redes).
 
 
 
